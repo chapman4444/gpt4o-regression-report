@@ -14,7 +14,7 @@ To help OpenAI and the community track behavioral changes in GPT-4o that impact 
 
 ## Feedback
 
-Created and maintained by Ryan (@chapman4444)
+Created and maintained by chapman4444
 
 [![Reddit](https://img.shields.io/badge/reddit-thread-red?logo=reddit)](https://www.reddit.com/r/OpenAI/comments/1kr5wls/gpt4o_breaks_strict_prompt_obedience_in_code/)
 [![HN](https://img.shields.io/badge/hacker%20news-thread-orange?logo=ycombinator)](https://news.ycombinator.com/threads?id=chapman4444)
